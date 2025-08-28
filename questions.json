@@ -1,0 +1,62 @@
+[
+  {
+    "question": "A Independência do Brasil (1822) resultou de um processo que envolveu pressões internas e externas. Qual fator externo contribuiu decisivamente para esse movimento?",
+    "options": [
+      "A difusão dos ideais da Revolução Francesa (1789), especialmente a cidadania universal",
+      "A abertura dos portos às nações amigas (1808) e os tratados comerciais com a Inglaterra (1810), que enfraqueceram o pacto colonial",
+      "Os impactos da Guerra da Crimeia (1853–1856) sobre o comércio atlântico",
+      "A Revolução Industrial na Alemanha, com forte influência no mercado brasileiro",
+      "A Guerra Civil Americana (1861–1865) e a crise do algodão"
+    ],
+    "correct_index": 1,
+    "explanation": "A abertura dos portos em 1808 e os tratados de 1810 com a Inglaterra romperam na prática o exclusivo metropolitano, ampliando a autonomia econômica do Brasil e contribuindo para o contexto que levou à Independência em 1822."
+  },
+  {
+    "question": "Durante a Era Vargas (1930–1945), a Consolidação das Leis do Trabalho (CLT) transformou as relações trabalhistas no Brasil. Qual medida está diretamente associada à CLT?",
+    "options": [
+      "Consolidação de direitos como férias anuais remuneradas e regulamentação da jornada de trabalho",
+      "Criação do Plano Real para estabilização monetária",
+      "Edição do AI-5 e fechamento do Congresso Nacional",
+      "Implantação ampla de privatizações no setor estratégico",
+      "Adoção do voto direto para presidentes durante todo o período"
+    ],
+    "correct_index": 0,
+    "explanation": "A CLT (1943) consolidou e regulamentou direitos trabalhistas — como férias remuneradas, limites de jornada e descanso semanal — definindo a estrutura legal das relações de trabalho no país."
+  },
+  {
+    "question": "O estopim da Primeira Guerra Mundial (1914–1918) foi o assassinato do arquiduque Francisco Ferdinando em Sarajevo. Qual foi a consequência imediata desse evento no cenário diplomático-militar?",
+    "options": [
+      "A assinatura do Tratado de Versalhes",
+      "A criação da Liga das Nações",
+      "A declaração de guerra da Áustria-Hungria contra a Sérvia, acionando o sistema de alianças",
+      "A entrada imediata dos Estados Unidos no conflito",
+      "A deflagração da Revolução Russa"
+    ],
+    "correct_index": 2,
+    "explanation": "Após o atentado de Sarajevo (junho de 1914), a Áustria-Hungria declarou guerra à Sérvia. A partir daí, as alianças previamente estabelecidas foram acionadas em cadeia, escalando o conflito em escala europeia e depois mundial."
+  },
+  {
+    "question": "A Revolução Industrial, iniciada na Inglaterra no século XVIII, alterou profundamente a organização do trabalho e da produção. Qual característica sintetiza essa transformação?",
+    "options": [
+      "Predomínio da agricultura de subsistência e mercados locais",
+      "Manutenção do trabalho exclusivamente escravo nas manufaturas",
+      "Substituição progressiva do artesanato pela produção mecanizada em fábricas",
+      "Reforço das monarquias absolutistas e do feudalismo",
+      "Expansão generalizada do sistema de guildas medievais"
+    ],
+    "correct_index": 2,
+    "explanation": "A mecanização, a fabricação em série e o uso de novas fontes de energia (como o vapor) deslocaram o trabalho artesanal para o ambiente fabril, aumentando a produtividade e alterando as relações sociais."
+  },
+  {
+    "question": "No período da Ditadura Militar no Brasil (1964–1985), o chamado ‘Milagre Econômico’ (c. 1968–1973) ficou marcado por qual dinâmica?",
+    "options": [
+      "Crescimento acelerado do PIB, com aumento da concentração de renda e da dívida externa",
+      "Estagnação econômica acompanhada de hiperinflação controlada",
+      "Queda acentuada da desigualdade social com pleno emprego",
+      "Abertura política, anistia e redemocratização em ritmo contínuo",
+      "Desnacionalização completa do parque industrial e recessão prolongada"
+    ],
+    "correct_index": 0,
+    "explanation": "O período registrou altas taxas de crescimento econômico, sustentadas por investimentos e endividamento externo, ao lado de forte repressão política e aumento da concentração de renda."
+  }
+]
